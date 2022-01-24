@@ -1,0 +1,11 @@
+@charset "UTF-8";
+ul{
+	list-style-type:circle;
+}
+ol.romano{
+	
+	list-style-type: upper-roman;
+}
+ol.letras{
+	list-style-type: lower-latin;
+}
